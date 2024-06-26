@@ -12,6 +12,9 @@ uma LLM forneça respostas precisas e relevantes.
 
 ## Exemplo de Uso 
 >
-
+A uma LLM, o Llamainex pode incluir uma coleção de documentos da sua empresa.
+>
+>
+Isso  permite  que se faça perguntas relacionadas ao seu negócio. A LLM aumentada com LlamaIndex fornece respostas baseadas em dados reais em vez de apenas inventar respostas vagas. 
 >
 
