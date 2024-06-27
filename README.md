@@ -42,10 +42,6 @@ Llamaindex permite a construção rápida de aplicativos baseados em LLMs utiliz
 >
 **Segurança e Privacidade:** Facilita a utilização de dados privados e sensíveis, garantindo que as informações não saiam do ambiente controlado pelo usuário.
 > 
->
-Em vez de de confiar apenas em seu conhecimento genérico pré-treinado de uma LLM, você pode injetar informações direcionadas para que
-uma LLM forneça respostas precisas e relevantes de um contexto.
->
 
 ### Usos do LlamaIndex 
 >
