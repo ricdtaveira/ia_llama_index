@@ -46,8 +46,10 @@ uma LLM forneça respostas precisas e relevantes.
 **Educação e Treinamento:** Instituições educacionais podem usar LlamaIndex para desenvolver ferramentas educacionais que combinam dados curriculares com capacidades avançadas de IA para melhorar a experiência de aprendizagem.
 
 **Suporte ao Cliente:** Empresas podem implementar soluções de suporte ao cliente que acessam bases de dados de suporte, manuais de produtos e históricos de interações para fornecer suporte mais eficaz e personalizado.
+>
 
 ## Exemplos de Uso
+>
 **Healthcare:** Utilização de LlamaIndex para acessar registros médicos eletrônicos (EMRs) e fornecer assistência personalizada a médicos e pacientes.
 **Fintech:** Implementação de assistentes financeiros que podem acessar e analisar dados financeiros privados para oferecer conselhos financeiros personalizados.
 **Serviços Jurídicos:** Criação de assistentes jurídicos que podem acessar bancos de dados de jurisprudência e documentos legais para ajudar advogados a preparar casos.
@@ -55,6 +57,6 @@ uma LLM forneça respostas precisas e relevantes.
 >
 Em resumo, LlamaIndex é uma ferramenta poderosa para integrar dados estruturados com modelos de linguagem avançados, possibilitando a criação de uma ampla gama de aplicações inteligentes e personalizadas.
 >
+>
 Isso  permite  que se faça perguntas relacionadas ao seu negócio. A LLM aumentada com LlamaIndex fornece respostas baseadas em dados reais em vez de apenas inventar respostas vagas. 
 >
-
