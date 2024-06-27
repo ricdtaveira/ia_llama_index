@@ -51,7 +51,11 @@ uma LLM forneça respostas precisas e relevantes.
 ## Exemplos de Uso
 >
 **Healthcare:** Utilização de LlamaIndex para acessar registros médicos eletrônicos (EMRs) e fornecer assistência personalizada a médicos e pacientes.
+>
+>
 **Fintech:** Implementação de assistentes financeiros que podem acessar e analisar dados financeiros privados para oferecer conselhos financeiros personalizados.
+>
+>
 **Serviços Jurídicos:** Criação de assistentes jurídicos que podem acessar bancos de dados de jurisprudência e documentos legais para ajudar advogados a preparar casos.
 >
 >
