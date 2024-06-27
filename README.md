@@ -1,5 +1,5 @@
 # ia_llama_index
-Repositório LLamaindex
+Repositório inerentes a LLamaindex
 
 ## Introdução
 >
